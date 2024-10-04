@@ -12,4 +12,5 @@ if(input.equals(output))
 			System.out.println("palindrome");
 		else
 			System.out.println("not palindrome");
+system.out.println("update");
   }}
